@@ -22,7 +22,7 @@ export default function Home() {
     <h2>Projects</h2>
     <div className="twoColumn">
       <div>
-        <h3>I'm Garret Leotta - Software Engineer</h3>
+        <h3>I{"'"}m Garret Leotta - Software Engineer</h3>
       </div>
       <div>
         <p>picture goes here</p>
